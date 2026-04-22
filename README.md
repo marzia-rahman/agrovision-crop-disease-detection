@@ -55,9 +55,15 @@ Disease Localization
 
 ### 🎥 Detection Demo
 
-[Dataset](outputs\3.png)
-[Detection](outputs\2.png)
-[Detection](outputs\1.png)
+#### Input Image
+![Input](outputs/3.png)
+
+#### Detection 1
+![Detection](outputs/2.png)
+
+#### Detection 2
+![Detection](outputs/1.png)
+
 
 ## ⚙️ Methodology
 
