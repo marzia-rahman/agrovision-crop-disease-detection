@@ -59,10 +59,10 @@ Disease Localization
 ![Input](outputs/3.png)
 
 #### Detection 1
-![Detection](outputs/2.png)
+![Detection](outputs/2.PNG)
 
 #### Detection 2
-![Detection](outputs/1.png)
+![Detection](outputs/1.PNG)
 
 
 ## ⚙️ Methodology
