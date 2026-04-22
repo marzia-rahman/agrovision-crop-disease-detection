@@ -21,9 +21,9 @@ Early detection of plant diseases is critical for:
 
 However, real-world challenges include:
 
-- ❌ Lack of annotated detection datasets  
-- ❌ Limited availability of crop-specific data  
-- ❌ Differences between lab datasets and field conditions  
+-  Lack of annotated detection datasets  
+-  Limited availability of crop-specific data  
+-  Differences between lab datasets and field conditions  
 
 This project addresses these challenges by bridging the gap between:
 
@@ -49,7 +49,15 @@ YOLOv8 (Detection)
 Disease Localization
 
 
+
+
 ---
+
+### 🎥 Detection Demo
+
+[Dataset](outputs\3.png)
+[Detection](outputs\2.png)
+[Detection](outputs\1.png)
 
 ## ⚙️ Methodology
 
