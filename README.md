@@ -150,8 +150,8 @@ disease/
 ### 🔧 Create environment
 
 ```bash
-conda create -n soybean python=3.10 -y
-conda activate soybean
+conda create -n  python=3.10 -y
+conda activate 
 
 📦 Install dependencies
 pip install torch torchvision
